@@ -58,12 +58,9 @@ def create_tables():
                 CLASS VARCHAR(50)
             )
         """)
-        
+    
 
 
-
-
-        
         cursor.execute("""
             CREATE TABLE IF NOT EXISTS teachers (
                 TEACHER_ID INT PRIMARY KEY,
