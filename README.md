@@ -1,2 +1,3 @@
 # School Management System
- Simple School management system
+ Simple School management system using mysql commands
+ 
