@@ -1,3 +1,6 @@
+# DEVELOPED BY <PRIYANSHUL SHARMA>
+# WEBPAGE Priyanshul.is-a.dev
+
 import mysql.connector as pymysql
 passwrd = None
 db = None  
@@ -294,6 +297,7 @@ def main():
             break
         else:
             print("Wrong Input")
+
 
 if __name__ == "__main__":
     main()
