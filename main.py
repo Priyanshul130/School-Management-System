@@ -1,5 +1,4 @@
 import mysql.connector as pymysql
-
 passwrd = None
 db = None  
 C = None
