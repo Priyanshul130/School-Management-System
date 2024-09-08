@@ -5,6 +5,7 @@ import mysql.connector as pymysql
 passwrd = None
 db = None  
 C = None
+# Connect to the database
 
 def base_check():
     check = 0
@@ -297,7 +298,5 @@ def main():
             break
         else:
             print("Wrong Input")
-
-
 if __name__ == "__main__":
     main()
